@@ -1,7 +1,5 @@
-#Junk
+# MacOS attrs
 .DS_Store
-.vscode/
-.idea/
 
 # Logs
 logs
